@@ -18,7 +18,7 @@ app.get("/error", (req, res) => {
     res.end();
 })
 app.get('/health', (req, res) => res.send({"status": "OK", "time": new Date()}))
-var port = process.env.PORT || 8080;
+var port = process.env.PORT || 8088;
 app.listen(port);
 
 // setInterval(callback, delay, [arg1, arg2, ...])
