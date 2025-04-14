@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # getting-started-nodejs
 Hii
 > Check out this video on Youtube which demonstrates how to deploy this node.js microservice on a Kubernetes cluster using Devtron:
@@ -98,3 +99,7 @@ Find out a detailed documentation about the configurations from here - https://d
 ---
 
 
+=======
+# devtron-nodejs-app
+Sample nodejs application to deploy on my poc cluster
+>>>>>>> ae96beb903658ba070fa5af525f429f81a498330
